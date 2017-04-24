@@ -2,5 +2,11 @@
 name = "yessir"
 version = "0.1.0"
 authors = ["Max Helmetag <mhelmetag@gmail.com>"]
+description = "Be repetitively affirmative using Rust"
+repository = "https://github.com/mhelmetag/yessir"
+readme = "README.md"
+license = "GPLv3"
+include = ["src/*.rs", "Cargo.toml", "LICENSE"]
+categories = ["development-tools"]
 
 [dependencies]
